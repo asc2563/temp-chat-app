@@ -31,7 +31,7 @@ function showCopiedTooltip() {
                 :readonly="true"
                 :value="link"
                 class="link-input"
-                placeholder="Click 'Generate Chat' to create a new chat room"
+                placeholder="Click 'Create Chat' to create a new chat room"
                 aria-label="Chat room link"
             />
             <button
