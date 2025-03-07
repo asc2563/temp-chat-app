@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 216">
+  <!-- Black circular background -->
+  <circle cx="108" cy="108" r="105" fill="black" stroke="white" stroke-width="2"/>
+  
+  <!-- Clipboard outline in white -->
+  <rect x="65" y="54" width="87" height="108" rx="4" ry="4" fill="none" stroke="white" stroke-width="2"/>
+  
+  <!-- Clipboard top part -->
+  <rect x="87" y="44" width="44" height="21" rx="3" ry="3" fill="none" stroke="white" stroke-width="2"/>
+  
+  <!-- Paper lines -->
+  <line x1="83" y1="80" x2="134" y2="80" stroke="white" stroke-width="2"/>
+  <line x1="83" y1="101" x2="134" y2="101" stroke="white" stroke-width="2"/>
+  <line x1="83" y1="123" x2="134" y2="123" stroke="white" stroke-width="2"/>
+</svg>
